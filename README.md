@@ -2,7 +2,17 @@ Cucumber sample code
 ====================
 
 * Code in `numerals`: voorbeeld-code van cucumber BDD-tests.
-* Code in `fff`, `godiva`, `blocks`, `husacct`: nog leeg, zie opdracht 3.
+
+Cucumber installatie 
+====================
+
+Stappen:
+
+  1. Installeer Ruby
+  2. Installeer `cucumber` en `rspec` (Unix/Mac: gebruik sudo):
+     ```
+	 gem install cucumber rspec
+	 ```
 
 Numerals
 -------
