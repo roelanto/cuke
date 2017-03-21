@@ -1,5 +1,3 @@
-
-
 Given(/^the input "(.*?)"$/) do |arg1|
   @input = arg1
 end
