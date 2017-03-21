@@ -1,5 +1,0 @@
-source :rubygems 
-group :test do
-gem 'cucumber', '2.4.0'
-gem 'rspec-expectations', '2.7.0' 
-end
