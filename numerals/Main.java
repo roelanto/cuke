@@ -6,7 +6,6 @@ public class Main {
         if(input.contains("^")){
             String[] numbers = input.split("^");
             int a = Integer.parseInt(numbers[0]);
-
             System.out.print(a * a);
         }
     }
